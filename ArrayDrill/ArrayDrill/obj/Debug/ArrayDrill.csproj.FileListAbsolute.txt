@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\bin\Debug\ArrayDrill.exe.config
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\bin\Debug\ArrayDrill.exe
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\bin\Debug\ArrayDrill.pdb
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\obj\Debug\ArrayDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\obj\Debug\ArrayDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\obj\Debug\ArrayDrill.exe
+C:\Users\Nashi\source\repos\ArrayDrill\ArrayDrill\obj\Debug\ArrayDrill.pdb
