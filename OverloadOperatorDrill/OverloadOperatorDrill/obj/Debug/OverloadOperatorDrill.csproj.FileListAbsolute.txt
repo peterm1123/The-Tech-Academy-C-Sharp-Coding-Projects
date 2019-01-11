@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.exe.config
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.exe
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.pdb
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.exe
+C:\Users\Nashi\source\repos\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.pdb
