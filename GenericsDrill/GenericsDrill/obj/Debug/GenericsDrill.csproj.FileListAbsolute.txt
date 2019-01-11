@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.exe.config
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.exe
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\bin\Debug\GenericsDrill.pdb
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.exe
+C:\Users\Nashi\source\repos\GenericsDrill\GenericsDrill\obj\Debug\GenericsDrill.pdb
