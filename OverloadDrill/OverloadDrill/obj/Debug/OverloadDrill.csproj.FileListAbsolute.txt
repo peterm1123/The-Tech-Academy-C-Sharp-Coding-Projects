@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\bin\Debug\OverloadDrill.exe.config
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\bin\Debug\OverloadDrill.exe
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\bin\Debug\OverloadDrill.pdb
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\obj\Debug\OverloadDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\obj\Debug\OverloadDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\obj\Debug\OverloadDrill.exe
+C:\Users\Nashi\source\repos\OverloadDrill\OverloadDrill\obj\Debug\OverloadDrill.pdb
