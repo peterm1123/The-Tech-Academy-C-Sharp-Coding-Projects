@@ -1,0 +1,6 @@
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.exe.config
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.exe
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\bin\Debug\LambdaDrill.pdb
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.exe
+C:\Users\Nashi\source\repos\LambdaDrill\LambdaDrill\obj\Debug\LambdaDrill.pdb
