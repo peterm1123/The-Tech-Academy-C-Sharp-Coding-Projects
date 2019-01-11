@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.exe.config
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.exe
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\bin\Debug\InheritanceDrill.pdb
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.exe
+C:\Users\Nashi\source\repos\InheritanceDrill\InheritanceDrill\obj\Debug\InheritanceDrill.pdb
