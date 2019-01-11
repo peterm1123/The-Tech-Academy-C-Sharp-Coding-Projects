@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe.config
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.pdb
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.exe
+C:\Users\Nashi\source\repos\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.pdb
