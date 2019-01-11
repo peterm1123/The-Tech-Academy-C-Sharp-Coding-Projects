@@ -1,0 +1,7 @@
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\bin\Debug\TwoIntergerdrill.exe.config
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\bin\Debug\TwoIntergerdrill.exe
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\bin\Debug\TwoIntergerdrill.pdb
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\obj\Debug\TwoIntergerdrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\obj\Debug\TwoIntergerdrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\obj\Debug\TwoIntergerdrill.exe
+C:\Users\Nashi\source\repos\TwoIntergerdrill\TwoIntergerdrill\obj\Debug\TwoIntergerdrill.pdb
