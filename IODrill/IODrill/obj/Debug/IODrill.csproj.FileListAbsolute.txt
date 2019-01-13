@@ -1,0 +1,2 @@
+C:\Users\Nashi\source\repos\IODrill\IODrill\obj\Debug\IODrill.csprojAssemblyReference.cache
+C:\Users\Nashi\source\repos\IODrill\IODrill\obj\Debug\IODrill.csproj.CoreCompileInputs.cache
