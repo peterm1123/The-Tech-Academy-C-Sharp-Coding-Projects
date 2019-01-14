@@ -1,0 +1,6 @@
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\bin\Debug\ConstantVarDrill.exe.config
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\bin\Debug\ConstantVarDrill.exe
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\bin\Debug\ConstantVarDrill.pdb
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\obj\Debug\ConstantVarDrill.csproj.CoreCompileInputs.cache
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\obj\Debug\ConstantVarDrill.exe
+C:\Users\Nashi\source\repos\ConstantVarDrill\ConstantVarDrill\obj\Debug\ConstantVarDrill.pdb
